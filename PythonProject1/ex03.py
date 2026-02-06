@@ -1,8 +1,0 @@
-x = input('Digite algo:')
-print(type(x))
-print(f'Só tem espaços?{x.isspace()}')
-print(f'É um número?{x.isnumeric()}')
-print(f'É Alfabético?{x.isalpha()}')
-print(f'Está em maiúsculas?{x.isupper()}')
-print(f'Está em minúsculas?{x.islower()}')
-print(f'Está capitalizado?{x.istitle()}')

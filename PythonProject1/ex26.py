@@ -1,5 +1,0 @@
-frase = input('Digite uma frase: ').strip().lower()
-n = frase.count('a')
-print(f'A frase {frase} tem {n}X a letra a')
-print(f'A frase {frase} tem a primeira letra a em sua {frase.find ('a') +1}° posição')
-print(f'A frase {frase} tem a última letra a em sua {frase.rfind ('a')}')
