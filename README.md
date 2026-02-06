@@ -13,7 +13,7 @@ Este repositório contém a resolução dos 33 primeiros desafios do curso de **
 ## 🚀 Próximo objetivo:
 Concluir o Mundo 2 e dominar as estruturas de repetição (for/while).
 
----[x] Desafio 01 - Olá Mundo
+[x] Desafio 01 - Olá Mundo
 
 [x] Desafio 02 - Respondendo ao Utilizador
 
