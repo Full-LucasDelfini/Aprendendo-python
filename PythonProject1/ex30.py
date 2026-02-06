@@ -5,3 +5,4 @@ else:
     print(f' O número {num} é ímpar!')
 
 
+
