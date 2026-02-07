@@ -13,72 +13,40 @@ Este repositório contém a resolução dos 33 primeiros desafios do curso de **
 ## 🚀 Próximo objetivo:
 Concluir o Mundo 2 e dominar as estruturas de repetição (for/while).
 
-[x] Desafio 01 - Olá Mundo
-
-[x] Desafio 02 - Respondendo ao Utilizador
-
-[x] Desafio 03 - Somando dois números
-
-[x] Desafio 04 - Dissecando uma Variável
-
-[x] Desafio 05 - Antecessor e Sucessor
-
-[x] Desafio 06 - Dobro, Triplo, Raiz Quadrada
-
-[x] Desafio 07 - Média Aritmética
-
-[x] Desafio 08 - Conversor de Medidas
-
-[x] Desafio 09 - Tabuada
-
-[x] Desafio 10 - Conversor de Moedas
-
-[x] Desafio 11 - Pintando Parede
-
-[x] Desafio 12 - Calculando Descontos
-
-[x] Desafio 13 - Reajuste Salarial
-
-[x] Desafio 14 - Conversor de Temperaturas
-
-[x] Desafio 15 - Aluguer de Carros
-
-[x] Desafio 16 - Quebrando um número
-
-[x] Desafio 17 - Catetos e Hipotenusa
-
-[x] Desafio 18 - Seno, Cosseno e Tangente
-
-[x] Desafio 19 - Sorteando um item na lista
-
-[x] Desafio 20 - Sorteando uma ordem na lista
-
-[x] Desafio 21 - Tocando um MP3
-
-[x] Desafio 22 - Analisador de Textos
-
-[x] Desafio 23 - Separando dígitos de um número
-
-[x] Desafio 24 - Verificando as primeiras letras de um texto
-
-[x] Desafio 25 - Procurando uma string dentro de outra
-
-[x] Desafio 26 - Primeira e última ocorrência de uma string
-
-[x] Desafio 27 - Primeiro e último nome de uma pessoa
-
-[x] Desafio 28 - Jogo da Adivinhação v.1.0
-
-[x] Desafio 29 - Radar Eletrónico
-
-[x] Desafio 30 - Par ou Ímpar?
-
-[x] Desafio 31 - Custo da Viagem
-
-[x] Desafio 32 - Ano Bissexto
-
-[x] Desafio 33 - Maior e menor valores
-
+### 🐍 Desafios do Mundo 1
+* [x] [Desafio 01 - Olá Mundo](Mundo1/ex01.py)
+* [x] [Desafio 02 - Respondendo ao Usuário](Mundo1/ex02.py)
+* [x] [Desafio 03 - Somando dois números](Mundo1/ex03.py)
+* [x] [Desafio 04 - Dissecando uma Variável](Mundo1/ex04.py)
+* [x] [Desafio 05 - Antecessor e Sucessor](Mundo1/ex05.py)
+* [x] [Desafio 06 - Dobro, Triplo, Raiz Quadrada](Mundo1/ex06.py)
+* [x] [Desafio 07 - Média Aritmética](Mundo1/ex07.py)
+* [x] [Desafio 08 - Conversor de Medidas](Mundo1/ex08.py)
+* [x] [Desafio 09 - Tabuada](Mundo1/ex09.py)
+* [x] [Desafio 10 - Conversor de Moedas](Mundo1/ex10.py)
+* [x] [Desafio 11 - Pintando Parede](Mundo1/ex11.py)
+* [x] [Desafio 12 - Calculando Descontos](Mundo1/ex12.py)
+* [x] [Desafio 13 - Reajuste Salarial](Mundo1/ex13.py)
+* [x] [Desafio 14 - Conversor de Temperaturas](Mundo1/ex14.py)
+* [x] [Desafio 15 - Aluguel de Carros](Mundo1/ex15.py)
+* [x] [Desafio 16 - Quebrando um número](Mundo1/ex16.py)
+* [x] [Desafio 17 - Catetos e Hipotenusa](Mundo1/ex17.py)
+* [x] [Desafio 18 - Seno, Cosseno e Tangente](Mundo1/ex18.py)
+* [x] [Desafio 19 - Sorteando um item na lista](Mundo1/ex19.py)
+* [x] [Desafio 20 - Sorteando uma ordem na lista](Mundo1/ex20.py)
+* [x] [Desafio 21 - Tocando um MP3](Mundo1/ex21.py)
+* [x] [Desafio 22 - Analisador de Textos](Mundo1/ex22.py)
+* [x] [Desafio 23 - Separando dígitos de um número](Mundo1/ex23.py)
+* [x] [Desafio 24 - Verificando as primeiras letras de um texto](Mundo1/ex24.py)
+* [x] [Desafio 25 - Procurando uma string dentro de outra](Mundo1/ex25.py)
+* [x] [Desafio 26 - Primeira e última ocorrência de uma string](Mundo1/ex26.py)
+* [x] [Desafio 27 - Primeiro e último nome de uma pessoa](Mundo1/ex27.py)
+* [x] [Desafio 28 - Jogo da Adivinhação v.1.0](Mundo1/ex28.py)
+* [x] [Desafio 29 - Radar Eletrônico](Mundo1/ex29.py)
+* [x] [Desafio 30 - Par ou Ímpar?](Mundo1/ex30.py)
+* [x] [Desafio 31 - Custo da Viagem](Mundo1/ex31.py)
+* [x] [Desafio 32 - Ano Bissexto](Mundo1/ex32.py)
+* [x] [Desafio 33 - Maior e menor valores](Mundo1/ex33.py)
 Foco:
 Meus códigos aprendendo a engatinhar até conseguir andar sozinho!
 Sei que isso é só o começo, mas tenho certeza que eu vou me orgulhar disto daqui alguns anos!
