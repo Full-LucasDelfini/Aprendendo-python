@@ -55,7 +55,7 @@ Concluir o Mundo 2 e dominar as estruturas de repetição (for/while).
 ## 🎓 Mundo 1: Fundamentos 
 > **Status: 100% Concluído** em 08/02/2026 🚀
 > Neste módulo, dominei tipos primitivos, operadores aritméticos, módulos e estruturas condicionais simples.
-![Certificado Mundo 1](progresso_mundo1.png)
+![Certificado Mundo 1](Mundo1image.png.png)
 Foco:
 Meus códigos aprendendo a engatinhar até conseguir andar sozinho!
 Sei que isso é só o começo, mas tenho certeza que eu vou me orgulhar disto em meu futuro!
