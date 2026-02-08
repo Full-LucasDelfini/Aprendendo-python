@@ -50,7 +50,12 @@ Concluir o Mundo 2 e dominar as estruturas de repetição (for/while).
 * [x] [Desafio 34 - Aumentos múltiplos](Mundo1/ex34.py)
 * [x] [Desafio 35 - Tríangulos](Mundo1/ex35.py)
 ![Resultado do Desafio 35](Mundo1/image.png)
+# 🐍 Jornada Python - Curso em Vídeo
 
+## 🎓 Mundo 1: Fundamentos 
+> **Status: 100% Concluído** em 08/02/2026 🚀
+> Neste módulo, dominei tipos primitivos, operadores aritméticos, módulos e estruturas condicionais simples.
+![Certificado Mundo 1](progresso_mundo1.png)
 Foco:
 Meus códigos aprendendo a engatinhar até conseguir andar sozinho!
 Sei que isso é só o começo, mas tenho certeza que eu vou me orgulhar disto daqui alguns anos!
