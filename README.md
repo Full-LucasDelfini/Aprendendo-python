@@ -49,7 +49,7 @@ Concluir o Mundo 2 e dominar as estruturas de repetição (for/while).
 * [x] [Desafio 33 - Maior e menor valores](Mundo1/ex33.py)
 * [x] [Desafio 34 - Aumentos múltiplos](Mundo1/ex34.py)
 * [x] [Desafio 35 - Tríangulos](Mundo1/ex35.py)
-![Resultado do Desafio 35](Mundo1image.png.png)
+![Resultado do Desafio 35](image.png.)
 # 🐍 Jornada Python - Curso em Vídeo
 
 ## 🎓 Mundo 1: Fundamentos 
