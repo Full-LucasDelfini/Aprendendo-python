@@ -1,6 +1,6 @@
 # 🐍 Desafios de Python - Mundo 1
 
-Este repositório contém a resolução dos 33 primeiros desafios do curso de **Python 3** do [Curso em Vídeo](https://www.cursoemvideo.com/), ministrado pelo professor Gustavo Guanabara.
+Este repositório contém a resolução dos 35 primeiros desafios do curso de **Python 3** do [Curso em Vídeo](https://www.cursoemvideo.com/), ministrado pelo professor Gustavo Guanabara.
 
 ## 🛠️ Toda a minha prática:
 * **Fundamentos:** Instalação e primeiros comandos.
@@ -49,7 +49,7 @@ Concluir o Mundo 2 e dominar as estruturas de repetição (for/while).
 * [x] [Desafio 33 - Maior e menor valores](Mundo1/ex33.py)
 * [x] [Desafio 34 - Aumentos múltiplos](Mundo1/ex34.py)
 * [x] [Desafio 35 - Tríangulos](Mundo1/ex35.py)
-![Resultado do Desafio 35](Mundo1/image.png)
+![Resultado do Desafio 35](Mundo1image.png.png)
 # 🐍 Jornada Python - Curso em Vídeo
 
 ## 🎓 Mundo 1: Fundamentos 
