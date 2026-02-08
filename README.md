@@ -2,7 +2,7 @@
 
 Este repositório contém a resolução dos 33 primeiros desafios do curso de **Python 3** do [Curso em Vídeo](https://www.cursoemvideo.com/), ministrado pelo professor Gustavo Guanabara.
 
-## 🛠️ O que eu pratiquei:
+## 🛠️ Toda a minha prática:
 * **Fundamentos:** Instalação e primeiros comandos.
 * **Tratamento de dados:** Tipos primitivos, entrada e saída de dados.
 * **Aritmética:** Operadores, média, conversão de medidas e descontos.
