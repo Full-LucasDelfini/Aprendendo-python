@@ -58,4 +58,4 @@ Concluir o Mundo 2 e dominar as estruturas de repetição (for/while).
 ![Certificado Mundo 1](progresso_mundo1.png)
 Foco:
 Meus códigos aprendendo a engatinhar até conseguir andar sozinho!
-Sei que isso é só o começo, mas tenho certeza que eu vou me orgulhar disto daqui alguns anos!
+Sei que isso é só o começo, mas tenho certeza que eu vou me orgulhar disto em meu futuro!
