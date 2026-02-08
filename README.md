@@ -47,7 +47,7 @@ Concluir o Mundo 2 e dominar as estruturas de repetição (for/while).
 * [x] [Desafio 31 - Custo da Viagem](Mundo1/ex31.py)
 * [x] [Desafio 32 - Ano Bissexto](Mundo1/ex32.py)
 * [x] [Desafio 33 - Maior e menor valores](Mundo1/ex33.py)
-* [x] [Desafio 034 - Aumentos múltiplos](Mundo1/ex34.py)
+* [x] [Desafio 34 - Aumentos múltiplos](Mundo1/ex34.py)
 
 Foco:
 Meus códigos aprendendo a engatinhar até conseguir andar sozinho!
