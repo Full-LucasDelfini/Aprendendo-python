@@ -59,5 +59,4 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 37 - Conversor de Bases Numéricas (Binário, Octal e Hexadecimal)](Mundo2/ex37.py)
 
 Foco:
-Em constante evolução, transformando lógica em autonomia.
-Sei que isso é só o começo, mas tenho certeza que eu vou me orgulhar disto em meu futuro!
+Em constante evolução, transformando lógica em autonomia!
