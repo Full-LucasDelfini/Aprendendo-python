@@ -1,1 +1,10 @@
+# 🏠 Mundo 2 - Python (Curso em Vídeo)
 
+Este repositório contém os desafios de lógica e condições aninhadas.
+
+## 📝 Desafio 036: Aprovando Empréstimo
+Programa criado para analisar o empréstimo bancário para a compra de uma casa.
+
+* **Funcionamento**: O script calcula o valor da prestação mensal com base no valor da casa, salário e anos de parcelamento.
+* **Regra de Negócio**: O empréstimo é negado se a parcela exceder 30% do salário do comprador.
+* **Tecnologias**: Uso de `if/elif/else`, formatadores de string (`f-strings`) e cores ANSI no terminal.
