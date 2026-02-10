@@ -2,7 +2,7 @@
 
 Este repositório contém a resolução dos 35 primeiros desafios do primeiro mundo e suas continuações referente ao curso de **Python 3** do [Curso em Vídeo](https://www.cursoemvideo.com/), ministrado pelo professor Gustavo Guanabara.
 
-## 🛠️ Toda a minha prática:
+## 🛠️ Conteúdo aplicado:
 * **Fundamentos:** Instalação e primeiros comandos.
 * **Tratamento de dados:** Tipos primitivos, entrada e saída de dados.
 * **Aritmética:** Operadores, média, conversão de medidas e descontos.
