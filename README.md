@@ -1,6 +1,6 @@
 # 🐍 Desafios de Python - Mundo 1
 
-Este repositório contém a resolução dos 35 primeiros desafios do primeiro mundo e suas continuações referente ao curso de **Python 3** do [Curso em Vídeo](https://www.cursoemvideo.com/), ministrado pelo professor Gustavo Guanabara.
+Este repositório contém a resolução dos 35 primeiros desafios do primeiro mundo e suas extensões referente ao curso de **Python 3** do [Curso em Vídeo](https://www.cursoemvideo.com/), ministrado pelo professor Gustavo Guanabara.
 
 ## 🛠️ Conteúdo aplicado:
 * **Fundamentos:** Instalação e primeiros comandos.
