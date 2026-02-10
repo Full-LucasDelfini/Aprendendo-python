@@ -50,7 +50,13 @@ Concluir o Mundo 2 e dominar as estruturas de repetição (for/while).
 * [x] [Desafio 34 - Aumentos múltiplos](Mundo1/ex34.py)
 * [x] [Desafio 35 - Tríangulos](Mundo1/ex35.py)
 ![Resultado do Desafio 35](Mundo1/imagem.png)
+
 # 🐍 Jornada Python - Curso em Vídeo
+## 🐍 Desafios do Mundo 2
+
+Abaixo, os exercícios focados em condições aninhadas e estruturas de repetição:
+
+- [x] [Desafio 36 - Aprovando Empréstimo](https://github.com/Full-LucasDelfini/Aprendendo-python/blob/main/Mundo2/ex036.py)
 
 Foco:
 Meus códigos aprendendo a engatinhar até conseguir andar sozinho!
