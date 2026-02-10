@@ -58,4 +58,5 @@ Abaixo, os exercícios focados em condições alinhadas e estruturas de repetiç
 * [x] [Desafio 36 - Aprovando Empréstimo](Mundo2/ex36.py)
 * [x] [Desafio 37 - Conversor de Bases Numéricas (Binário, Octal e Hexadecimal)](Mundo2/ex37.py)
 * [x] [Desafio 38 - Comparação Numérica com Interface de Usuário (UX)](Mundo2/ex38.py)
+
 Em constante evolução, transformando lógica em autonomia!
