@@ -61,5 +61,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 39 - Verificador de Alistamento Militar Inteligente](Mundo2/ex39.py)
 * [x] [Desafio 40 - Calculadora de Média com Filtro de Integridade de Dados](Mundo2/ex40.py)
 * [x] [Desafio 41 - Sistema de Classificação de Atletas com Validação de Dados](Mundo2/ex41.py)
-
+* [x] [Desafio 42 - Analisador-Triangulos-V2(EQUILÁTERO, ISÓSCELES E ESCALENO)](Mundo2/ex42.py)
+      
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
