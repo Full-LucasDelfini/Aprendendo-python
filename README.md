@@ -54,11 +54,12 @@ Concluir o Mundo 2 e dominar as estruturas de repetição (for/while).
 # 🐍 Jornada Python - Curso em Vídeo
 ## 🐍 Desafios do Mundo 2
 
-Abaixo, os exercícios focados em condições alinhadas e estruturas de repetição:
+Abaixo, os exercícios focados em condições aninhadas e estruturas de repetição:
 * [x] [Desafio 36 - Aprovando Empréstimo](Mundo2/ex36.py)
 * [x] [Desafio 37 - Conversor de Bases Numéricas (Binário, Octal e Hexadecimal)](Mundo2/ex37.py)
 * [x] [Desafio 38 - Comparação Numérica com Interface de Usuário (UX)](Mundo2/ex38.py)
 * [x] [Desafio 39 - Verificador de Alistamento Militar Inteligente](Mundo2/ex39.py)
 * [x] [Desafio 40 - Calculadora de Média com Filtro de Integridade de Dados](Mundo2/ex40.py)
+* [x] [Desafio 41 - Sistema de Classificação de Atletas com Validação de Dados](Mundo2/ex41.py)
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
