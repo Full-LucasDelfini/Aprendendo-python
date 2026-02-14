@@ -62,5 +62,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 40 - Calculadora de Média com Filtro de Integridade de Dados](Mundo2/ex40.py)
 * [x] [Desafio 41 - Sistema de Classificação de Atletas com Validação de Dados](Mundo2/ex41.py)
 * [x] [Desafio 42 - Analisador-Triangulos-V2(EQUILÁTERO, ISÓSCELES E ESCALENO)](Mundo2/ex42.py)
-      
+* [x] [Desafio 43 - Calculadora de (IMC) Inteligente com Python](Mundo2/ex43.py)
+
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
