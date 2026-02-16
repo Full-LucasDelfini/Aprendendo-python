@@ -65,5 +65,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 43 - Calculadora de (IMC) Inteligente com Python](Mundo2/ex43.py)
 * [x] [Desafio 44 - Sistema de Simulador de ponto de venda com condições de pagamento](Mundo2/ex44.py)
 * [x] [Desafio 45 - JO-KEN-PÔ Inteligente com experiência com bibliotecas interativas ao usuário](Mundo2/ex45.py)
+* [x] [Desafio 46 - (Mundo2/ex46.py)
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
