@@ -67,5 +67,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 45 - JO-KEN-PÔ Inteligente com experiência com bibliotecas interativas ao usuário](Mundo2/ex45.py)
 * [x] [Desafio 46 - Estruturas De Controle com Contagem regressiva até os fogos explodirem](Mundo2/ex46.py)
 * [x] [Desafio 47 - Contagem Crescente de Números Pares com Range](Mundo2/ex47.py)
+* [x] [Desafio 48 - Soma de Ímpares Múltiplos de Três](Mundo2/ex48.py) 
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
