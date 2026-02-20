@@ -70,5 +70,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 48 - Soma de Ímpares Múltiplos de Três](Mundo2/ex48.py) 
 * [x] [Desafio 49 - Tabuada v2.0 Interativa e Variável de acordo com a resposta do usuário](Mundo2/ex49.py)
 * [x] [Desafio 50 - Contador e Somador com Filtro de Números Pares](Mundo2/ex50.py)
+* [x] [Desafio 51 - Progressão Aritmética de acordo com as variáveis escolhidas pelo usuário](Mundo2/ex51.py)
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
