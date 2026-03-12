@@ -73,5 +73,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 51 - Progressão Aritmética de acordo com as variáveis escolhidas pelo usuário](Mundo2/ex51.py)
 * [x] [Desafio 52 - Explorando Laços de Repetição: Verificação de Primalidade](Mundo2/ex52.py)
 * [x] [Desafio 53 - Detector de Palíndromos inteligente](Mundo2/ex53.py)
+* [x] [Desafio 54 - Calculadora e indentificador de idade referente a maioridade](Mundo2/ex54.py)
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
