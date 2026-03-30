@@ -78,5 +78,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 56 - Processamento de dados estatísticos com estruturas de repetição](Mundo2/ex56.py)
 * [x] [Desafio 57 - Validação de dados simples com while (gênero masculino ou feminino](Mundo2/ex57.py)
 * [x] [Desafio 58 - Guess-The-Number: Validação Dinâmica com not in](Mundo2/ex58.py)
+* [x] [Desafio 59 - Interpretador de Números e Operações inteligente para excessões](Mundo2/ex59.py)
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
