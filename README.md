@@ -81,6 +81,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 59 - Interpretador de Números e Operações inteligente para excessões](Mundo2/ex59.py)
 * [x] [Desafio 60 - Calculadora de números inteiros para números fatoriais em loop](Mundo2/ex60.py)
 * [x] [Desafio 61 - Progressão Aritmética *V2* de acordo com as variáveis escolhidas pelo usuário](Mundo2/ex61.py)
-* [x] [Gerador de Progressão Aritmética v3.0 com interatividade em tempo real](Mundo2/ex62.py)
+* [x] [Desafio 62 - Gerador de Progressão Aritmética V3.0 com interatividade em tempo real](Mundo2/ex62.py)
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
