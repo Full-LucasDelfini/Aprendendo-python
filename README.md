@@ -83,5 +83,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 61 - Progressão Aritmética *V2.0* de acordo com as variáveis escolhidas pelo usuário](Mundo2/ex61.py)
 * [x] [Desafio 62 - Gerador de Progressão Aritmética V3.0 com interatividade em tempo real](Mundo2/ex62.py)
 * [x] [Desafio 63 - Fibonacci Generator: Algoritmo de Troca de Variáveis e Atribuição Múltipla](Mundo2/ex63.py)
+* [x] [Desafio 64 - Data Accumulator: Soma e Contagem de Inteiros com Tratamento de Singular/Plural](Mundo2/ex64.py)
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
