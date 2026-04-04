@@ -78,11 +78,12 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 56 - Processamento de dados estatísticos com estruturas de repetição](Mundo2/ex56.py)
 * [x] [Desafio 57 - Validação de dados simples com while (gênero masculino ou feminino](Mundo2/ex57.py)
 * [x] [Desafio 58 - Guess-The-Number: Validação Dinâmica com not in](Mundo2/ex58.py)
-* [x] [Desafio 59 - Interpretador de Números e Operações inteligente para excessões](Mundo2/ex59.py)
+* [x] [Desafio 59 - Interpretador de Números e Operações inteligente para excessanalisador_estatistico_v1.ões](Mundo2/ex59.py)
 * [x] [Desafio 60 - Calculadora de números inteiros para números fatoriais em loop](Mundo2/ex60.py)
 * [x] [Desafio 61 - Progressão Aritmética *V2.0* de acordo com as variáveis escolhidas pelo usuário](Mundo2/ex61.py)
 * [x] [Desafio 62 - Gerador de Progressão Aritmética V3.0 com interatividade em tempo real](Mundo2/ex62.py)
 * [x] [Desafio 63 - Fibonacci Generator: Algoritmo de Troca de Variáveis e Atribuição Múltipla](Mundo2/ex63.py)
 * [x] [Desafio 64 - Data Accumulator: Soma e Contagem de Inteiros com Tratamento de Singular/Plural](Mundo2/ex64.py)
+* [x] [Desafio 65 - Analisador_Estatistico_v1 Inteligente com excessão(maior e menor](Mundo2/ex65.py)
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
