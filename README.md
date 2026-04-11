@@ -86,5 +86,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 64 - Data Accumulator: Soma e Contagem de Inteiros com Tratamento de Singular/Plural](Mundo2/ex64.py)
 * [x] [Desafio 65 - Analisador_Estatistico_v1 Inteligente para excessão(maior e menor)](Mundo2/ex65.py)
 * [x] [Desafio 66 - Data Accumulator: Soma e Contagem de Inteiros V2.0 Com Break](Mundo2/ex66.py)
+* [ ] 
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
