@@ -89,6 +89,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 67 - Tabuada v3.0 | Data Flow & Loop Control Com Exceção Para 0](Mundo2/ex67.py)
 * [x] [Desafio 68 - Par ou Ímpar: Ultimate Edition](Mundo2/ex68.py)
 * [x] [Desafio 69 - Análise de Dados do Grupo com validação e tratamento para IndexError](Mundo2/ex69.py)
-* [x] [Desafio 70 - Analisador de dados e simulador de check-out de uma loja exibindo menor, maior e total](Mundo2ex70.py) 
+* [x] [Desafio 70 - Analisador de dados e simulador de check-out de uma loja exibindo menor, maior e total](Mundo2/ex70.py) 
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
