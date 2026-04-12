@@ -87,7 +87,7 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 65 - Analisador_Estatistico_v1 Inteligente para excessão(maior e menor)](Mundo2/ex65.py)
 * [x] [Desafio 66 - Data Accumulator: Soma e Contagem de Inteiros V2.0 Com Break](Mundo2/ex66.py)
 * [x] [Desafio 67 - Tabuada v3.0 | Data Flow & Loop Control Com Exceção Para 0](Mundo2/ex67.py)
-* [ ] [Desafio 68 - Par ou Ímpar: Ultimate Edition](Mundo2/ex68.py)
-* [ ] 
+* [x] [Desafio 68 - Par ou Ímpar: Ultimate Edition](Mundo2/ex68.py)
+* [] 
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
