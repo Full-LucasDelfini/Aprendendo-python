@@ -24,4 +24,3 @@ print(f'\n{" FIM DO PROGRAMA ":=^30}')
 print(f'O total da compra foi R$ {totcompra:.2f}')
 print(f'Temos {maiormil} produtos custando mais de R$ 1000.00')
 print(f'O produto mais barato foi {barato} que custou R$ {menor_preco:.2f}')
-
