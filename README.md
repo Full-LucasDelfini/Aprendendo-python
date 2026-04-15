@@ -92,4 +92,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 70 - Analisador de dados e simulador de check-out de uma loja exibindo menor, maior e total](Mundo2/ex70.py)
 * [x] [Desafio 71 - Interpretador e simulador de fluxo de caixa bancário inteligente](Mundo2/ex71.py) 
 
+## 🐍 Desafios do Mundo 3
+
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
