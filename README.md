@@ -93,6 +93,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 71 - Interpretador e simulador de fluxo de caixa bancário inteligente](Mundo2/ex71.py) 
 
 ## 🐍 Desafios do Mundo 3
-* [x] [Desafio 72 - Manipulação de Tuplas com números inteiros no intervalo de (0,20)](Mundo2/ex72.py)
+* [x] [Desafio 72 - Manipulação de Tuplas com números inteiros no intervalo de (0,20)](Mundo3/ex72.py)
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
