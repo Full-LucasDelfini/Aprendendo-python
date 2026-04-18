@@ -96,5 +96,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 72 - Manipulação de Tuplas com números inteiros no intervalo de (0 à 20)](Mundo3/ex72.py)
 * [x] [Desafio 73 - Tuplas em Python: Análise de Dados Esportivos com Fatiamento e Localização de Índices](Mundo3/ex73.py)
 * [x] [Desafio 74 - Tuple Data Analysis: Geração de Valores Aleatórios e Métodos de Agregação (Max/Min)](Mundo3/ex74.py)
+* [x] [Desafio 75 - Desafio 75 - Tuple Data Processing: Coleta de Inputs e Análise Estatística com Count, Index e Iteração Condicional](Mundo3/ex75.py) 
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
