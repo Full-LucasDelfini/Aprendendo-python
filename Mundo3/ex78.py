@@ -12,4 +12,3 @@ print(f'\nO menor valor foi {menor} nas posições ', end='')
 for i, v in enumerate(valores):
     if v == menor:
         print(f'{i}... ', end='')
-
