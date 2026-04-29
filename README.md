@@ -101,5 +101,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 77 - String Iteration & Nested Loops: Decomposição de Metas de Carreira e Extração de Vogais](Mundo3/ex77.py)
 * [x] [Desafio 78 - List Analysis: Max, Min and Index Positions](Mundo3/ex78.py)
 * [x] [Desafio 79 - Data-Entry-Handler-Unique-Integer-List-with-Sorted-Output](Mundo3/ex79.py)
+* [ ] 
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
