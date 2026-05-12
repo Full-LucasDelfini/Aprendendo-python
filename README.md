@@ -101,9 +101,9 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 77 - String Iteration & Nested Loops: Decomposição de Metas de Carreira e Extração de Vogais](Mundo3/ex77.py)
 * [x] [Desafio 78 - List Analysis: Max, Min and Index Positions](Mundo3/ex78.py)
 * [x] [Desafio 79 - Data-Entry-Handler-Unique-Integer-List-with-Sorted-Output](Mundo3/ex79.py)
-* [x] [Desafio 80 -
-* [x] [Desafio 81 -
-* [x] [Desafio 82 -
+* [x] [Desafio 80 - Manual List Ordering: Algoritmo de Inserção Direta sem uso do Método Sort()
+* [x] [Desafio 81 - List Data Analysis: Métodos de Ordenação Decrescente, Contagem e Verificação de MembershipList Data Analysis: Métodos de Ordenação Decrescente, Contagem e Verificação de Membership](Mundo3/ex81.py)
+* [x] [Desafio 82 - Multi-List Data Splitting: Filtragem de Paridade e Distribuição de Elementos em Coleções AuxiliaresMulti-List Data Splitting: Filtragem de Paridade e Distribuição de Elementos em Coleções Auxiliares](Mundo3/ex82.py)
 * [ ]   
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
