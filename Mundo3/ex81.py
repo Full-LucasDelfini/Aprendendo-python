@@ -15,6 +15,3 @@ if 5 in lista_numeros:
     print('O número 5 pertence a lista de números!')
 else:
     print('O número 5 não pertence a lista!')
-
-
-
