@@ -104,6 +104,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 80 - Manual List Ordering: Algoritmo de Inserção Direta sem uso do Método Sort()](Mundo3/ex80.py)
 * [x] [Desafio 81 - List Data Analysis: Métodos de Ordenação Decrescente, Contagem e Verificação de MembershipList](Mundo3/ex81.py)
 * [x] [Desafio 82 - Multi-List Data Splitting: Filtragem de Paridade e Distribuição de Elementos em Coleções AuxiliaresMulti-List](Mundo3/ex82.py)
-* [ ]   
+* [x] [Desafio 83 - Expression Analysis: Validação de Parênteses em Expressões Matemáticas via Estrutura de Pilha](Mundo3/ex83.py)
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
