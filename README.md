@@ -105,6 +105,7 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 81 - List Data Analysis: Métodos de Ordenação Decrescente, Contagem e Verificação de MembershipList](Mundo3/ex81.py)
 * [x] [Desafio 82 - Multi-List Data Splitting: Filtragem de Paridade e Distribuição de Elementos em Coleções AuxiliaresMulti-List](Mundo3/ex82.py)
 * [x] [Desafio 83 - Expression Analysis: Validação de Parênteses em Expressões Matemáticas via Estrutura de Pilha](Mundo3/ex83.py)
-* [ ] 
+* [x] [Desafio 84 - Nested Lists & Data Analysis: Monitoramento de Peso Corporal e Extração de Extremos via Matriz Dinâmica](Mundo3/ex84.py)
+* [x] [Desafio 85 - Matrix Data Splitting: Filtragem de Paridade em Estrutura Composta e Ordenação Direta de Sublistas](Mundo2/ex85.py)
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
