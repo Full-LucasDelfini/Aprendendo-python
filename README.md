@@ -107,5 +107,7 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 83 - Expression Analysis: Validação de Parênteses em Expressões Matemáticas via Estrutura de Pilha](Mundo3/ex83.py)
 * [x] [Desafio 84 - Nested Lists & Data Analysis: Monitoramento de Peso Corporal e Extração de Extremos via Matriz Dinâmica](Mundo3/ex84.py)
 * [x] [Desafio 85 - Matrix Data Splitting: Filtragem de Paridade em Estrutura Composta e Ordenação Direta de Sublistas](Mundo3/ex85.py)
+* [x] [Desafio 86 - Matrix Formatting: Construção de Estrutura Bidimensional e Alinhamento Tabular Dinâmico](Mundo3/ex86.py)
+* [x] [Desafio 87 - Advanced Matrix Processing: Redução de Dados Lineares e Algoritmo Manual de Comparação Condicional](Mundo3/ex87.py)
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
