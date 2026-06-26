@@ -110,6 +110,6 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 86 - Matrix Formatting: Construção de Estrutura Bidimensional e Alinhamento Tabular Dinâmico](Mundo3/ex86.py)
 * [x] [Desafio 87 - Advanced Matrix Processing: Redução de Dados Lineares e Algoritmo Manual de Comparação Condicional](Mundo3/ex87.py)
 * [x] [Desafio 88 - Random Combination Generator: Sorteio Automatizado de Palpites e Algoritmo de Validação de Não-Repetição](Mundo3/ex88.py)
-* [ ] [Desafio 89 - Multi-Dimensional Data Aggregation: Sistema de Boletim Escolar com Busca Indexada via Listas Compostas](Mundo3/ex89.py)
+* [x] [Desafio 89 - Multi-Dimensional Data Aggregation: Sistema de Boletim Escolar com Busca Indexada via Listas Compostas](Mundo3/ex89.py)
  
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
