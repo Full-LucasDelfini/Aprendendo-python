@@ -92,6 +92,7 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 70 - Analisador de dados e simulador de check-out de uma loja exibindo menor, maior e total](Mundo2/ex70.py)
 * [x] [Desafio 71 - Interpretador e simulador de fluxo de caixa bancário inteligente](Mundo2/ex71.py) 
 
+Abaixo os exercícios focados em estruturas compostas:
 ## 🐍 Desafios do Mundo 3
 * [x] [Desafio 72 - Manipulação de Tuplas com números inteiros no intervalo de (0 à 20)](Mundo3/ex72.py)
 * [x] [Desafio 73 - Tuplas em Python: Análise de Dados Esportivos com Fatiamento e Localização de Índices](Mundo3/ex73.py)
@@ -112,5 +113,7 @@ Abaixo, os exercícios focados em condições aninhadas e estruturas de repetiç
 * [x] [Desafio 88 - Random Combination Generator: Sorteio Automatizado de Palpites e Algoritmo de Validação de Não-Repetição](Mundo3/ex88.py)
 * [x] [Desafio 89 - Multi-Dimensional Data Aggregation: Sistema de Boletim Escolar com Busca Indexada via Listas Compostas](Mundo3/ex89.py)
 * [x] [Desafio 90 - Structured Key-Value Mapping: Armazenamento de Dados Escolares e Validação Condicional via Dicionários](Mundo3/ex90.py)
+* [x] [Desafio 91 - Data Sorting & Mapping: Algoritmo de Ordenação e Ranking de Performance via Dicionários e Operadores Nativos](Mundo3/ex91.py)
++ [x] [Desafio 92 - Business Logic & Time-Series Projections: Sistema de Cadastro Previdenciário com Análise Condicional de Dados Contratuais](Mundo3/ex92.py)
  
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
