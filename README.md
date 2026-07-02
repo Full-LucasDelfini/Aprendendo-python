@@ -115,5 +115,6 @@ Abaixo os exercícios focados em estruturas compostas:
 * [x] [Desafio 90 - Structured Key-Value Mapping: Armazenamento de Dados Escolares e Validação Condicional via Dicionários](Mundo3/ex90.py)
 * [x] [Desafio 91 - Data Sorting & Mapping: Algoritmo de Ordenação e Ranking de Performance via Dicionários e Operadores Nativos](Mundo3/ex91.py)
 + [x] [Desafio 92 - Business Logic & Time-Series Projections: Sistema de Cadastro Previdenciário com Análise Condicional de Dados Contratuais](Mundo3/ex92.py)
++ [x] [Desafio 93 - Data Aggregation & Performance Metrics: Sistema de Gerenciamento de Aproveitamento Esportivo via Estruturas Compostas](Mundo3/ex93.py)
  
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
