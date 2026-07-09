@@ -117,6 +117,7 @@ Abaixo os exercícios focados em estruturas compostas:
 + [x] [Desafio 92 - Business Logic & Time-Series Projections: Sistema de Cadastro Previdenciário com Análise Condicional de Dados Contratuais](Mundo3/ex92.py)
 + [x] [Desafio 93 - Data Aggregation & Performance Metrics: Sistema de Gerenciamento de Aproveitamento Esportivo via Estruturas Compostas](Mundo3/ex93.py)
 + [x] [Desafio 94 - Multidimensional Data Analysis & Relational Filtering: Sistema Integrado de Cadastro Coletivo com Análise Estatística Demográfica](Mundo3/ex94.py)
-+ [x] [Desafio 95 - Multi-Entity Data Processing & Indexed Search: Sistema Avançado de Aproveitamento Esportivo com Cadastro Coletivo e Consulta Dinâmica](Mundo3/ex95.py)  
++ [x] [Desafio 95 - Multi-Entity Data Processing & Indexed Search: Sistema Avançado de Aproveitamento Esportivo com Cadastro Coletivo e Consulta Dinâmica](Mundo3/ex95.py)
+* [x] [Desafio 96 - Positional Parameter Passing & Area Calculation: Sistema de Controle de Terrenos com Modularização de Cabeçalhos e Escopo de Variáveis](Mundo3/ex96.py) 
  
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
