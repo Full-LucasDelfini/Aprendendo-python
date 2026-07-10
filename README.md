@@ -114,7 +114,7 @@ Abaixo os exercícios focados em estruturas compostas:
 * [x] [Desafio 89 - Multi-Dimensional Data Aggregation: Sistema de Boletim Escolar com Busca Indexada via Listas Compostas](Mundo3/ex89.py)
 * [x] [Desafio 90 - Structured Key-Value Mapping: Armazenamento de Dados Escolares e Validação Condicional via Dicionários](Mundo3/ex90.py)
 * [x] [Desafio 91 - Data Sorting & Mapping: Algoritmo de Ordenação e Ranking de Performance via Dicionários e Operadores Nativos](Mundo3/ex91.py)
-+ [x] [Desafio 92 - Business Logic & Time-Series Projections: Sistema de Cadastro Previdenciário com Análise Condicional de Dados Contratuais](Mundo3/ex92.py)
+* [x] [Desafio 92 - Business Logic & Time-Series Projections: Sistema de Cadastro Previdenciário com Análise Condicional de Dados Contratuais](Mundo3/ex92.py)
 * [x] [Desafio 93 - Data Aggregation & Performance Metrics: Sistema de Gerenciamento de Aproveitamento Esportivo via Estruturas Compostas](Mundo3/ex93.py)
 * [x] [Desafio 94 - Multidimensional Data Analysis & Relational Filtering: Sistema Integrado de Cadastro Coletivo com Análise Estatística Demográfica](Mundo3/ex94.py)
 * [x] [Desafio 95 - Multi-Entity Data Processing & Indexed Search: Sistema Avançado de Aproveitamento Esportivo com Cadastro Coletivo e Consulta Dinâmica](Mundo3/ex95.py)
