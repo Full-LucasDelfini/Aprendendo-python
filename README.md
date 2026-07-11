@@ -122,5 +122,6 @@ Abaixo os exercícios focados em estruturas compostas:
 * [x] [Desafio 97 - Dynamic String Formatting & Terminal UX: Sistema de Mensagem Adaptável com Alinhamento Automatizado e Dimensionamento de Borda](Mundo3/ex97.py)
 * [x] [Desafio 98 - Directional Range Handling & Step-Based Iteration: Sistema de Contagem Progressiva e Regressiva com Parametrização de Intervalo](Mundo3/ex98.py)
 * [x] [Desafio 99 - Variadic Argument Handling & Maximum Value Search: Sistema de Identificação do Maior Valor com Parâmetros Variáveis e Iteração Comparativa](Mundo3/ex99.py)
+* [x] [Desafio 100 - Mutable Reference Passing & Conditional Accumulation: Sistema de Sorteio Numérico com Alteração de Lista por Referência e Soma Seletiva de Valores Pares](Mundo3/ex100.py) 
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
