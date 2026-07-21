@@ -13,4 +13,3 @@ def inteiro(msg):
     return valor
 n = inteiro('Digite um número inteiro: ')
 print(f'Você acabou de digitar o número {n}')
-
