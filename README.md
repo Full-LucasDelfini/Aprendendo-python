@@ -126,6 +126,7 @@ Abaixo os exercícios focados em estruturas compostas:
 * [x] [Desafio 101 - Multi-Branch Function Returns & Age Range Validation: Sistema de Verificação de Situação Eleitoral por Faixa Etária](Mundo3/ex101.py)
 * [x] [Desafio 102 - Functions & Parameters & Loops: Calculadora de Fatorial](Mundo3/ex102.py)
 * [x] [Desafio 103 - Functions & Optional Parameters & Conditionals: Ficha do Jogador](Mundo3/ex103.py)
-* [x] [Desafio 104 - Functions & Loops & Input Validation: Verificador de Números Inteiros](Mundo3/ex104.py) 
+* [x] [Desafio 104 - Functions & Loops & Input Validation: Verificador de Números Inteiros](Mundo3/ex104.py)
+* [x] [Desafio 105 - Functions & Variadic Arguments & Default Parameters & Dictionaries: Boletim de Notas](Mundo3/ex105.py)
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
