@@ -129,6 +129,6 @@ Abaixo os exercícios focados em estruturas compostas:
 * [x] [Desafio 104 - Functions & Loops & Input Validation: Verificador de Números Inteiros](Mundo3/ex104.py)
 * [x] [Desafio 105 - Functions & Variadic Arguments & Default Parameters & Dictionaries: Boletim de Notas](Mundo3/ex105.py)
 * [x] [Desafio 106 - Tuples & Functions & While Loop & ANSI Escape Codes: Oráculo do Terminal](Mundo3/ex106.py)
-* [x] [Desafio 107 - Modules & Functions: Calculadora de Valores Monetários](Mundo3/ex107) 
+* [x] [Desafio 107 - Modules & Functions: Calculadora de Valores Monetários](Mundo3/ex107.py) 
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
