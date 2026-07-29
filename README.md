@@ -133,8 +133,8 @@ Abaixo os exercícios focados em estruturas compostas:
 * [x] [Desafio 108 - Functions & String Formatting: Calculadora de Preços em Reais](Mundo3/ex108.py)
 * [x] [Desafio 109 - Modules & Functions & String Formatting: Conversor de Moeda](Mundo3/ex109.py) 
 * [x] [Desafio 110 - Modules & Packages & String Formatting: Pacote de Conversão Monetária](Mundo3/ex110.py)
-* [ ] [
-* [ ] [
-* [ ] [
+* [x] [Desafio 111 - Packages & Modules & Code Refactoring: Empacotando a Central de Utilidades](Mundo3/ex111.py)
+* [x] [Desafio 112 - Exception Handling & Input Validation: Caixa de Entrada de Valores Monetários](Mundo3/ex112.py)
+* [x] [Desafio 113 - Exception Handling & Type Validation & Loops: Leitura Segura de Números](Mundo3/ex113.py)
 
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
