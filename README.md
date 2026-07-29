@@ -133,5 +133,8 @@ Abaixo os exercícios focados em estruturas compostas:
 * [x] [Desafio 108 - Functions & String Formatting: Calculadora de Preços em Reais](Mundo3/ex108.py)
 * [x] [Desafio 109 - Modules & Functions & String Formatting: Conversor de Moeda](Mundo3/ex109.py) 
 * [x] [Desafio 110 - Modules & Packages & String Formatting: Pacote de Conversão Monetária](Mundo3/ex110.py)
-   
+* [ ] [
+* [ ] [
+* [ ] [
+
 Em constante evolução, aprimorando cada vez mais a autonomia e a síntese de raciocínio!
